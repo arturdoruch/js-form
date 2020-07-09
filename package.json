@@ -1,0 +1,21 @@
+{
+  "name": "@arturdoruch/form",
+  "description": "HTML form manager.",
+  "keywords": ["form manager"],
+  "version": "1.0.0",
+  "type": "module",
+  "main": "lib/Form.js",
+  "dependencies": {
+    "@arturdoruch/event-registry": "^1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arturdoruch/js-form"
+  },
+  "author": {
+    "name": "Artur Doruch",
+    "email": "arturdoruch@interia.pl"
+  },
+  "license": "MIT"
+}
+
