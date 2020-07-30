@@ -2,7 +2,7 @@
   "name": "@arturdoruch/form",
   "description": "HTML form manager.",
   "keywords": ["form manager"],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "main": "lib/Form.js",
   "dependencies": {
